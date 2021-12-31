@@ -1,0 +1,91 @@
+{
+  "projekti": [
+    {
+      "operacija": "Varenje bakra",
+      "tim": "Varioci Bakar",
+      "RN": "1",
+      "izvrseno": true,
+      "id": 1
+    },
+    {
+      "operacija": "Varenje bakra",
+      "tim": "Varioci Bakar",
+      "RN": "2",
+      "izvrseno": false,
+      "id": 2
+    },
+    {
+      "operacija": "Spajanje ormara",
+      "tim": "Elektricari",
+      "RN": "3",
+      "izvrseno": false,
+      "id": 3
+    },
+    {
+      "operacija": "Zavarivanje inoxa",
+      "tim": "Varioci Inox",
+      "RN": "4",
+      "izvrseno": true,
+      "id": 4
+    },
+    {
+      "operacija": "",
+      "tim": "",
+      "RN": "5",
+      "id": 5
+    },
+    {
+      "operacija": "",
+      "tim": "",
+      "RN": "6",
+      "id": 6
+    }
+  ],
+  "timovi": [
+    {
+      "imeTima": "Izolateri",
+      "brojTima": "3",
+      "zadatakTima": "Izolacija",
+      "trenutniRN": "3",
+      "id": 2
+    },
+    {
+      "imeTima": "Konstruktori",
+      "brojTima": "1",
+      "zadatakTima": "1",
+      "trenutniRN": "",
+      "id": 3
+    }
+  ],
+  "radniNalozi": [
+    {
+      "id": 1,
+      "RN": 1
+    },
+    {
+      "id": 2,
+      "RN": 2
+    }
+  ],
+  "korisnici": [
+    {
+      "imeKorisnika": "Ivan",
+      "password": "123",
+      "password2": "123",
+      "id": 3
+    },
+    {
+      "imeKorisnika": "Lovro",
+      "password": "123",
+      "password2": "123",
+      "id": 5
+    },
+    {
+      "imeKorisnika": "Lucija",
+      "password": "123",
+      "password2": "123",
+      "id": 6
+    }
+  ],
+  "ulogiraniKorisnik": []
+}
